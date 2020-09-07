@@ -5,5 +5,9 @@
     <RootNamespace>nhr_api_prop_list</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="images\" />
+  </ItemGroup>
+
 
 </Project>
