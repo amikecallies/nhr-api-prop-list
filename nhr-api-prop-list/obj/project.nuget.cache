@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qk/jXo+iCZV1kY6o0jKPMRMbwUs/bp0u0AhOeQWmoIo/4iCse3uAc6eBtfVb18co/d/Mcq9BsZD6pmA+FqGzCg==",
+  "dgSpecHash": "0NJYiLvq8tnYka/VBgh6Dziq02VQmCBQywYGnwSPzjUVlt0+j+cUNekRiUP8DCuZZ7u345iO8w/zk07qu163Lg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Michael\\Documents\\Development\\nhr-api-prop-list\\nhr-api-prop-list\\nhr-api-prop-list.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Michael\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
   "logs": []
 }
