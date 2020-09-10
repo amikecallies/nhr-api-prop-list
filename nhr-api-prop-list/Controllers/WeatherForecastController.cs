@@ -24,6 +24,7 @@ namespace nhr_api_prop_list.Controllers
         }
 
         [HttpGet]
+        //[Route("/")] Uncomment and comment out Route Annotation in the Class Header
         public IEnumerable<WeatherForecast> Get()
         {
             var rng = new Random();

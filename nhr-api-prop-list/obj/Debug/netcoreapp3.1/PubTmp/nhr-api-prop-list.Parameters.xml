@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="nhr-api-prop-list" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Michael\\Documents\\Development\\nhr-api-prop-list\\nhr-api-prop-list\\obj\\Debug\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
